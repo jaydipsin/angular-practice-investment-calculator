@@ -3,7 +3,7 @@ form {
     max-width: 30rem;
     margin: 2rem auto;
     border-radius: 4px;
-    background: linear-gradient(180deg, #307e6c, #2b996d);
+    background: linear-gradient(180deg, #3881d4, #3685c1);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   }
   ::placeholder{
@@ -40,7 +40,7 @@ form {
     padding: 0.5rem;
     border: 1px solid #76c0ae;
     border-radius: 0.25rem;
-    background-color: #83e6c0;
+    background-color: #0c5cbf;
     color: #1a1f1d;
     font-size: 1rem;
     font-weight: bold;
@@ -49,5 +49,5 @@ form {
   }
   
   button:hover {
-    background-color: #aaf1d6;
+    background-color: #3685c1;
   }
